@@ -1,4 +1,4 @@
-# Spotify-Clone-Web-Application
+# Responsive Spotify Web UI Clone
 
 Built a responsive front-end clone of Spotify using HTML and CSS, replicating key UI
 components such as the navigation bar, playlists, and media player layout. The project
